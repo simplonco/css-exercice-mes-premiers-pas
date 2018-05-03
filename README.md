@@ -25,3 +25,4 @@ Reprenez votre portfolio HTML basique et mettez le en forme avec ce que vous ven
 * [CSS Beginner](http://www.htmldog.com/guides/css/beginner/)
 * [La mise en page](http://fr.learnlayout.com/)
 * [CSS Specifity](https://css-tricks.com/specifics-on-css-specificity/)
+* [L'inspecteur d'élément, votre meilleur ami (Firefox)](https://developer.mozilla.org/fr/docs/Outils/Inspecteur)
